@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.image img {
+    width: 18rem;
+    margin-top: 1.7rem;
+}
+.header {
+    text-align: center;
+    background: green;
+    padding: 1px;
+    border-radius: 2rem;
+    margin: 1rem;
+}
+.header h2 {
+    font-size: 1.05rem;
+    color: white;
+}
+
+.server h2 {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.console p {
+    background: black;
+    color: white;
+    margin: 4px;
+    font-size: 14px;
+    border-radius: 2px;
+}
+
+button {
+    margin: 4px;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(109, 107, 107);
+    border-radius: 5px;
+}
+.buttom {
+    text-align: center;
+    font-weight: 800;
+}
