@@ -4,8 +4,9 @@ body {
     padding: 0;
 }
 .image img {
-    width: 18rem;
+    width: 20rem;
     margin-top: 1.7rem;
+    padding: Auto;
 }
 .header {
     text-align: center;
@@ -27,18 +28,23 @@ body {
 .console p {
     background: black;
     color: white;
+    width: 100%;
     margin: 4px;
     font-size: 14px;
     border-radius: 2px;
 }
 
 button {
-    margin: 4px;
+    margin: auto;
     background: rgb(255, 255, 255);
     border: 1px solid rgb(109, 107, 107);
     border-radius: 5px;
 }
+button p {
+    font-size: 0.9rem;
+    font-weight: 700;
+}
 .buttom {
     text-align: center;
-    font-weight: 800;
+    font-weight: 00;
 }
