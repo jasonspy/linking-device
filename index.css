@@ -4,8 +4,9 @@ body {
     padding: 0;
 }
 .image img {
-    width: 20rem;
+    width: 29rem;
     margin-top: 1.7rem;
+    margin: auto;
     padding: Auto;
 }
 .header {
